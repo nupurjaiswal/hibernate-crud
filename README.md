@@ -1,8 +1,8 @@
 # Hibernate Create Read Update Delete Project
 
-- Technologies Used: Spring, Hibernate, MySQL
+- Technologies Used: *Spring, Hibernate, MySQL*
  
-## Steps:
+### Steps:
 - Execute the SQL script:
  ```sh
 CREATE USER 'hbstudent'@'localhost' IDENTIFIED BY 'hbstudent';
